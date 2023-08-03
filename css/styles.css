@@ -1,0 +1,13 @@
+.column {
+    float: left;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.column ul {
+    list-style: none;
+}
+
+.bottom {
+    display: inline-block;
+}
