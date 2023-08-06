@@ -16,8 +16,8 @@ _The webpage shows a simple row of three columns, each containing a profile for 
 ## Setup/Installation Requirements
 
 * Visit webpage using the following URL:
-* jfpalchak.github.io/Thur
-OR
+* jfpalchak.github.io/Thur,
+#### OR
 * Clone repository to working directory.
 * Open index.html in browser.
 
